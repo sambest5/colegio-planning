@@ -1,0 +1,68 @@
+TEACHER: Sam Best
+UNIT: Kinematics
+GRADE: 12 
+
+----------------------
+CURRICULAR CONNECTIONS
+----------------------
+BIG IDEAS:
+- Understand the mathematical relationships between moving bodies in both 1 and 2 dimensions.
+- Understand the difference between vector and scalar quantities conceptually and through mathematical differences.
+- Understand that all vectors in two dimensions can be broken into orthongonal components and these components are always independent of one another.
+
+ESSENTIAL QUESTIONS:
+- How does math play a role in describing motion?
+- What can we predict about the future or the past of an object in motion using math?
+- Why is it so important to distinguish physical quantities into scalars and vectors?
+- What is the significance of vector components being independent? How does this effect the way we describe two dimensional vectors with math?
+
+CORE COMPETENCIES:
+- Communication
+- Creative Thinking
+- Critical Thinking
+
+CURRICULAR COMPETENCIES:
+- Collaboratively and individually plan, select, and use appropriate investigation methods, including field work and lab experiments, to collect reliable data (qualitative and quantitative) 
+- Communicate scientific ideas, information, and perhaps a suggested
+course of action, for a specific purpose and audience, constructing
+evidence-based arguments and using appropriate scientific language,
+conventions, and representations
+- Evaluate their methods and experimental conditions, including identifying sources of error or
+uncertainty, confounding variables, and possible alternative explanations and conclusions
+- Construct, analyze, and interpret graphs, models, and/or diagrams 
+
+CONTENT:
+- Relative motion
+- Projectile motion
+- Accelerated motion
+- Vector analysis
+- Relationships between variables
+
+----------
+ASSESSMENT
+----------
+FORMATIVE:
+- Intersperse all lectures with opportunities to recall what they have just been taught in order to reinforce their understanding, or make them aware of what they did not fully understand
+- Provide practice problems of the variety they will be assessed on with the answers so they can check their own work and realize what they are doing wrong
+- Before a formal assessment give them a 'pretend' quiz on which they will receive immediate feedback on how well they understand the concepts/can solve the problems.
+
+REFLECTIVE:
+- Provide partner assignments where they are required to solve a problem similar (but often with an extra challenge) to other's they have seen. The assignment requires them to explain to each other the steps they would take, reinforcing their understanding and improving their communication skills.
+- Work on teams to design experiment. Give them multiple opportunities to try their ideas, and improve upon them. 
+- Individual assignments in which they are permitted to work together as well as ask me any questions for 
+clarification.
+
+SUMMATIVE:
+- Quizzes based on subsections of the unit
+- Test based on the entire unit
+- Lab on projectile motion in which they must design a component of the experiment carried out by the group
+- Analysis of data obtained through the experiment
+---------
+RESOURCES
+---------
+- Lesson plans for each individual lesson based on the unit curriculum
+- Workbook with practice exercises
+- Group work assignments based on the the curricular competencies
+- Quizzes and tests
+- Lab materials for the projectile motion experiment 
+- Tutorial for analysing data to create mathematical models

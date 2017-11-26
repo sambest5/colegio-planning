@@ -1,0 +1,70 @@
+TEACHER: Sam Best
+UNIT: Trigonometry
+GRADE: 12 
+
+----------------------
+CURRICULAR CONNECTIONS
+----------------------
+BIG IDEAS:
+- Analyzing the characteristics of functions allows to solve equations and model and 
+understand relationships
+- Many functions are related through inverse operations
+- Transformations of shapes extend to functions in all of their representations
+- Understand how trigonometric equations can be solved using standard algebra techniques
+- Understand the relationship between our trigonometric ratios and their corresponding functions.
+- Understand that sinusoidal functions can be used to model many situations in the natural and man 
+made world, and that these usually involve some type of circular motion 
+
+ESSENTIAL QUESTIONS:
+- How are the algebraic techniques used in trigonometry related to past algebraic techniques 
+learned and what are new/different ones?
+- How can a trigonometric ratio be visualized on a Cartesian plane, and does this deepen our
+understanding of what a trigonometric ratio is?
+- Where can we find sinusoidal functions in our lives? Can we model these situations with a function?
+
+CORE COMPETENCIES:
+- Communication
+- Creative Thinking
+- Critical Thinking
+
+CURRICULAR COMPETENCIES:
+- Use reasoning and logic to analyze and apply mathematical ideas
+- Demonstrate fluent and flexible thinking of number
+- Model mathematics in contextualized experiences
+- Communicate mathematical thinking in many ways
+- Explain and justify mathematical ideas
+set of graphical transformations.
+
+CONTENT:
+- Algebra in the context of trigonometric equations
+- Using 'special triangles' to aid in solving trig equations
+- Using data and our knowledge about sinusoidal functions to model a number of situations in everyday life.
+
+----------
+ASSESSMENT
+----------
+FORMATIVE:
+- Intersperse all lectures with opportunities to recall what they have just been taught in order 
+to reinforce their understanding, or make them aware of what they did not fully understand
+- Provide practice problems of the variety they will be assessed on with the answers so they can 
+check their own work and realize what they are doing wrong
+- Before a formal assessment give them a 'pretend' quiz on which they will receive immediate 
+feedback on how well they understand the concepts/can solve the problems.
+
+REFLECTIVE:
+- Provide partner assignments where they are required to solve a problem similar (but often with an 
+extra challenge) to other's they have seen. The assignment requires them to explain to each other the
+steps they would take, reinforcing their understanding and improving their communication skills.
+
+SUMMATIVE:
+- Quizzes based on subsections of the unit
+- Test based on the entire unit
+- Project on modelling the hours of daylight as it changes throughout the year
+
+---------
+RESOURCES
+---------
+- Lesson plans for each individual lesson based on the unit curriculum
+- Workbook with practice exercises
+- Group work assignments on graphing trig functions and modelling sinusoidal functions
+- Quizzes and tests
